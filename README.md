@@ -26,5 +26,7 @@ Running the bot
 If you exported the API credentials succesfully you can run the bot by:
 
 python update_profile_follow_counter.py
+
+
 Author
 Harshita Agarwal
